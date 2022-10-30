@@ -1,2 +1,0 @@
-# tmddemmo
-demo purpose
